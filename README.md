@@ -22,6 +22,6 @@ This project automates routine backup jobs, verifies backup integrity, and provi
 ## Roadmap
 - [x] Backup job trigger script
 - [x] Job status/health check script
-- [ ] Failure alerting script
+- [x] Failure alerting script
 - [ ] Failover simulation script
 - [ ] Architecture diagram
