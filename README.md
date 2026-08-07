@@ -24,4 +24,4 @@ This project automates routine backup jobs, verifies backup integrity, and provi
 - [x] Job status/health check script
 - [x] Failure alerting script
 - [x] Failover simulation script
-- [ ] Architecture diagram
+- [x] Architecture diagram
